@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904003521341",
+    "firebase_url": "https://accelometerproject.firebaseio.com",
+    "project_id": "accelometerproject",
+    "storage_bucket": "accelometerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904003521341:android:d4fff1f9daf8706e",
+        "android_client_info": {
+          "package_name": "com.example.hp.accelometerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904003521341-8e9e6o5evksljmbqq7bf44dehimjuvpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.accelometerproject",
+            "certificate_hash": "d1f3e63389fedc1f03e0871f5c2d751c29b377b8"
+          }
+        },
+        {
+          "client_id": "904003521341-kfnph20risit0ekdoph3ru1tvqkeja0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3lu5X-bS-W96RrqqUSbfeaU6hffa9oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904003521341-kfnph20risit0ekdoph3ru1tvqkeja0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
